@@ -1,4 +1,4 @@
-import { Validator } from './index.js';
+import { Validator } from '@seip/validate';
 
 const userSchema = {
     email: { required: true, email: true },
