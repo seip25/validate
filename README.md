@@ -20,7 +20,7 @@ npm install validate-seip
 ## Quick Start
 
 ```javascript
-import { Validator } from 'validate-seip';
+import { Validator } from '@seip/validate';
 
 // Define your validation schema
 const userSchema = {
