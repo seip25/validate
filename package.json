@@ -1,0 +1,22 @@
+{
+  "name": "@seip/validate",
+  "version": "0.0.2",
+  "description": "Validate requests forms with translate",
+  "keywords": [
+    "validate",
+    "js"
+  ],
+  "homepage": "https://github.com/seip25/validate#readme",
+  "bugs": {
+    "url": "https://github.com/seip25/validate/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seip25/validate.git"
+  },
+  "license": "MIT",
+  "author": "Seip25",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {}
+}
